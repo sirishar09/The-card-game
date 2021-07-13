@@ -1,50 +1,50 @@
 let cards = [{
-            image: "images/goal1.jpg",
+            image: "goal1.jpg",
             value: 1,
             status: "closed"
         },
         {
-            image: "images/goal1.jpg",
+            image: "goal1.jpg",
             value: 1,
             status: "closed"
         },
         {
-            image: "images/goal2.jpg",
+            image: "goal2.jpg",
             value: 2,
             status: "closed"
         },
         {
-            image: "images/goal2.jpg",
+            image: "goal2.jpg",
             value: 2,
             status: "closed"
         },
         {
-            image: "images/goal311.jpg",
+            image: "goal311.jpg",
             value: 3,
             status: "closed"
         },
         {
-            image: "images/goal311.jpg",
+            image: "goal311.jpg",
             value: 3,
             status: "closed"
         },
         {
-            image: "images/goal411.jpeg",
+            image: "goal411.jpeg",
             value: 4,
             status: "closed"
         },
         {
-            image: "images/goal411.jpeg",
+            image: "goal411.jpeg",
             value: 4,
             status: "closed"
         },
         {
-            image: "images/goal51.jpg",
+            image: "goal51.jpg",
             value: 5,
             status: "closed"
         },
         {
-            image: "images/goal51.jpg",
+            image: "goal51.jpg",
             value: 5,
             status: "closed"
         }
