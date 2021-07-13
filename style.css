@@ -5,7 +5,7 @@
  }
  
  body {
-     background-image: url("images/11.jpeg");
+     background-image: url("11.jpeg");
  }
  
  .container {
@@ -117,7 +117,7 @@
      width: 100%;
      /* background-color: gray; */
      background-size: cover;
-     background-image: url("images/gamehome.jpg");
+     background-image: url("gamehome.jpg");
      background-size: cover;
  }
  
